@@ -1,24 +1,13 @@
-# Contributing to DecryptLoaderTT
+# Contributing
 
-## How to Contribute
+Please try to make valuable contributions and avoid spam pull requests.
 
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
+NON-CODE PRs are not accepted.
 
-## Guidelines
+#### For minor changes
+* Fork the project and make the changes.
+* Open a pull request describing your contribution.
 
-- Keep it simple — this is a lightweight tool
-- Test on Windows Command Prompt before submitting
-- Update README.md if you add new features
-- Credit yourself in the commit message
+#### For major changes
+* First open an issue and discuss your views.
 
-## Bug Reports
-
-Open an issue with:
-- Python version
-- Windows version
-- Exact error message
-- URL that failed (if applicable)
